@@ -1,6 +1,6 @@
 import UIKit
 
-let count = 20
+let count = 1
 var apples = ""
 
 if count % 10 == 1 {
